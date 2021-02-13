@@ -1,0 +1,110 @@
+I"5<h1 id="ciarán-hennessy">Ciarán Hennessy</h1>
+
+<h2 id="profile">Profile</h2>
+<p>Ciarán is a self-motivated software architect who is experienced with leveraging cloud technologies and modern software patterns to build, deploy and run scalable software solutions. Ciarán is a strong, confident communicator who inspires confidence and trust in colleagues, stakeholders and clients. Ciarán is a proven leader and motivator who demonstrates strong technical and business expertise. Ciarán has experience working for large multinationals and growth stage start ups.</p>
+
+<h2 id="education">Education</h2>
+
+<h3 id="20132016-msc-hons-computer-science-dublin-city-university-ireland">2013–2016 <em>M.Sc. (Hons) Computer Science</em>, <em>Dublin City University</em>, Ireland</h3>
+<p>Major in Data Analytics</p>
+
+<h3 id="20002004-bsc-hons-computer-applications-dublin-city-university-ireland">2000–2004 <em>B.Sc. (Hons) Computer Applications</em>, <em>Dublin City University</em>, Ireland</h3>
+<p>Software Engineering stream</p>
+
+<h2 id="experience">Experience</h2>
+
+<h3 id="solution-architect-global-cloud-acceleration-team-ibm-ireland">Solution Architect, Global Cloud Acceleration Team, IBM Ireland</h3>
+<p><code class="language-plaintext highlighter-rouge">2020 - 2021</code></p>
+
+<ul>
+  <li>
+    <p>Worked directly with the client’s senior technical staff to understand their business, process and technical requirements.</p>
+  </li>
+  <li>
+    <p>Responsible for mapping those client requirements to IBM Public Cloud offerings and developing an architecture which delivered all of these.</p>
+  </li>
+  <li>
+    <p>Reported directly to C-Suite executives at the client and executives in IBM on plans, progress and issues when they arose.</p>
+  </li>
+  <li>
+    <p>Identified creative tactical technical solutions to allow the client to meet the agreed timelines.</p>
+  </li>
+  <li>
+    <p>Influenced the IBM Public Cloud roadmap content and prioritization by working with Offering Management to understand where and why customers are making tactical decisions.</p>
+  </li>
+  <li>
+    <p>[k8s] [Docker] [Helm] [Terraform] [Ansible] [Jenkins] [Github] [DB2] [Shell scripting]</p>
+  </li>
+</ul>
+
+<h3 id="software-architect-policy-insights-watson-health-ibm-ireland">Software Architect, Policy Insights, Watson Health, IBM Ireland</h3>
+<p><code class="language-plaintext highlighter-rouge">2017 - 2020</code></p>
+
+<ul>
+  <li>Architect responsible for the design, development &amp; delivery of a new information retrieval offering within a broader portfolio of Fraud, Waste and Abuse prevention offerings.</li>
+  <li>Responsible for designing the entire technical platform from the developer tooling and build infrastructure to the CI/CD pipeline and monitoring.</li>
+  <li>Daily hands on problem solving with engineers to address the issues that they ran into on a dialy basis (Java/Python/Shell scripting/Jenkins/NodeJS/etc.)</li>
+  <li>Leveraged <em>as-a-service</em> options and open-source implementations where possible to reduce costs and increase maintainability.</li>
+  <li>Insisted on an api-first design to enable integration with the broader portfolio.</li>
+  <li>Worked closely with Offering Management, Product Owners &amp; Business Analysts to ensure that the product achieved product market fit.</li>
+  <li>Presented to clients to demonstrate functionality, answer technical questions &amp; listen to their feedback.</li>
+  <li>Advocated successfully for what I believed to be appropriate architecture.</li>
+  <li>[Docker] [Java] [Springboot] [Gradle] [Docker] [k8s] [Helm] [Github] [Netty] [Tomcat] [DB2]</li>
+</ul>
+
+<h3 id="principal-software-engineer-watson-care-manager-watson-health-ibm-ireland">Principal Software Engineer, Watson Care Manager, Watson Health, IBM Ireland</h3>
+<p><code class="language-plaintext highlighter-rouge">2016 - 2017</code></p>
+
+<ul>
+  <li>Lead engineer responsible for integrating an existing IBM research asset into an Watson Health SaaS offering to provide product differentiation.</li>
+  <li>Managed a diverse technical group with conflicting priorities to agree integration points &amp; deployment architecture.</li>
+  <li>Worked closely with Offering Management to help them to understand both the possibilities and the limitations of the reasearch asset so that product features could be defined.</li>
+  <li>Helped the whole technical team to identify, understand and address the non-functional aspects of the integration</li>
+  <li>Agreed tactical solutions where long-running or memory-instensive calculations were limited by resource constraints so as not to affect the stability of the overall product.</li>
+  <li>Reported on project progress &amp; risks to senior management and technical staff to ensure the project met agreed timelines and budgets.</li>
+  <li>[Java] [Jersey] [Python] [Maven] [Gradle] [Jenkins] [RTC] [WLP] [Websphere] [DB2]</li>
+</ul>
+
+<h3 id="lead-software-engineer-social-programme-management-smarter-cities-ibm-ireland">Lead Software Engineer, Social Programme Management, Smarter Cities, IBM Ireland</h3>
+<p><code class="language-plaintext highlighter-rouge">2012 - 2015</code></p>
+
+<h3 id="software-engineer-cúram-software-ltd">Software Engineer, Cúram Software Ltd.</h3>
+<p><code class="language-plaintext highlighter-rouge">2005 - 2012</code></p>
+
+<h2 id="achievements">Achievements</h2>
+
+<h3 id="2020-drove-significant-monthly-recurring-revenue-with-strategic-ibm-public-cloud-client">2020 Drove significant monthly recurring revenue with strategic IBM Public CLoud client</h3>
+
+<p>Led a Global Cloud Acceleration Team (GCAT) engagement with an Irish-based client to grow their monthly recurring revenue by over 400%. Worked directly with the client’s senior technical staff at to design and deliver a public isolated cloud platform that met their large data processing needs. Engaged with C-Suite execuites at the client to demonstrate the business value, scalability, security &amp; robustness of the agreed architecture.</p>
+
+<h3 id="2017-productionization-of-reasearch-asset-to-drive-user-efficiency">2017 Productionization of reasearch asset to drive user efficiency</h3>
+
+<p>Led a combined team of IBM researchers, engineers and UX to develop a natural language text summarization component for SaaS-based Care Management solution. The component used a combination of 3rd party and custom annotators to identify domain entities from unstructured text. It also used a novel ranking algorithm with learning loop to generate user-based, role-based and time-based summaries of unstructured text (case notes). The component saved Care Managers preparation time in advance of calls with vulnerable clients by making summarized case notes available to them.</p>
+
+<h3 id="2016-presented-at-irish-conference-on-artificial-intelligence-and-cognitive-science-conference">2016 Presented at Irish Conference on Artificial Intelligence and Cognitive Science Conference</h3>
+
+<p>Delivered poster presentation at 2016 conference. The paper presented was based on M.Sc. practicum submission. Practicum demonstrated a novel technique to measure the similarity between social media personalities (a.k.a. influencers), their followers and businesses. The technique was based on the classification of text-based social media output using the <em>Alchemy</em> taxonomy. The algorithm provided a way for business to measure how good of a fit an influencer or a sample of their follorwers was for their business.</p>
+
+<h2 id="interests">Interests</h2>
+
+<ul>
+  <li>Technology, sport, current affairs \&amp; coffee.</li>
+  <li>Avid consumer of newspapers, books and podcasts</li>
+  <li>Occasional footballer and semi-regular runner.</li>
+  <li>Full time dog owner x 2.</li>
+</ul>
+
+<h2 id="contact">Contact</h2>
+<ul>
+  <li>Raheny, Dublin 5, Ireland</li>
+  <li>ciaran.p.hennessy[at]gmail.com</li>
+</ul>
+
+<h2 id="references">References</h2>
+<p>Available on request.</p>
+
+<!-- ### Footer
+
+Last updated: Feb 2021 -->
+
+:ET
